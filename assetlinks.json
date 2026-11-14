@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "dz.ablaw.club",
+        "sha256_cert_fingerprints": ["25:AE:79:28:D3:93:48:FA:9F:7F:4A:2C:ED:95:8E:3C:03:45:72:81:E5:6F:33:29:8D:CC:79:50:28:25:40:C7"]
+      }
+    }]
